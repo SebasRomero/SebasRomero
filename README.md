@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SebasRomero
 - 👀 I’m interested in the whole developer world.
-- 🌱 I’m currently improving my skills in React and JS
-- 💞️ I’m looking to get a job applying everything I know abot programming.
+- 🌱 I’m currently improving my skills in React and JS.
+- 💞️ I’m looking to get a job applying everything I know about programming.
 - 📫 How to reach me... sebastian_eromero@hotmail.com
 
 <!---
