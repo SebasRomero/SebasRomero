@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SebasRomero
 - 👀 I’m interested in the whole developer world.
-- 🌱 I’m currently improving my skills in Go, but also I know about JS, React, HTML5 and Linux
+- 🌱 I’m currently improving my skills in Go, TS but also I know about JS, React, HTML5 and Linux
 - 💞️ I’m looking to get a job applying everything I know about programming.
 - 📫 How to reach me... sebastian_eromero@hotmail.com
 
