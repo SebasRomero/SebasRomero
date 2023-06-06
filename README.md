@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">A Systems Engineer student who is in love with the programming.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sebasromero&label=Profile%20views&color=0e75b6&style=flat" alt="sebasromero" /> </p>
-
 - 🌱 I’m currently learning **Typescript, NestJS and NextJS**
 
 - 👨‍💻 My portfolio is [https://portfolio-gamma-lac-33.vercel.app/](https://portfolio-gamma-lac-33.vercel.app/)
@@ -22,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebasromero&show_icons=true&locale=en" alt="sebasromero" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebasromero&" alt="sebasromero" /></p>
+
