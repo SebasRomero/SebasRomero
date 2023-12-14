@@ -11,8 +11,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebasromero&show_icons=true&locale=en&layout=compact" alt="sebasromero" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebasromero&show_icons=true&locale=en" alt="sebasromero" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebasromero&" alt="sebasromero" /></p>
 
