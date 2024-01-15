@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">A Systems Engineering student who is in love with the programming.</h3>
 
-- 👨‍💻 My portfolio is [https://portfolio-gamma-lac-33.vercel.app/](https://portfolio-gamma-lac-33.vercel.app/)
-
 - 📫 How to reach me **sebastian_eromero@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
