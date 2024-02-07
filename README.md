@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">A Systems Engineer who is in love with the programming.</h3>
+<h3 align="center">A Software Engineer who is in love with the programming.</h3>
 
 - 📫 How to reach me **sebastian_eromero@hotmail.com**
 
